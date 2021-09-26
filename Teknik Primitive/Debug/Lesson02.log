@@ -1,0 +1,4 @@
+﻿  Demo.cpp
+C:\Users\mfalf\OneDrive\Desktop\GK\vs\Lesson02\Demo.cpp(72,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lesson02.vcxproj -> C:\Users\mfalf\OneDrive\Desktop\GK\vs\Debug\Lesson02.exe
